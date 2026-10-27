@@ -1,16 +1,20 @@
 # HuuDx
 
-Distribuição oficial do HuuDx. As versões são publicadas em Releases.
+Distribuição oficial do HuuDx.
 
-## Ativar o atualizador em uma instalação existente
+## Primeiros passos
 
-1. Baixe o ZIP HuuDx-Atualizador da versão mais recente.
-2. Feche o HuuDx e todos os perfis.
-3. Extraia o ZIP na pasta principal onde está HuuDx.exe, aceitando substituir os três arquivos do programa.
-4. Abra HuuDx.exe como administrador. Se uma versão nova estiver disponível, o programa oferecerá a atualização.
+1. Baixe o pacote completo pelo link oficial de download fornecido pela equipe HuuDx.
+2. Extraia o pacote em uma pasta do seu computador.
+3. Abra `HuuDx.exe` como administrador.
+4. Entre na sua conta ou crie um cadastro na tela de login.
 
-Esse ZIP ativa o atualizador e não é uma instalação completa para computadores sem o HuuDx.
+O atualizador já está incluído no pacote completo. Não é necessário instalar nenhum complemento para receber atualizações.
 
-O atualizador verifica a assinatura do manifesto e os hashes dos arquivos. Perfis, contas, configurações e dados dos clientes não fazem parte das atualizações. Nenhum perfil é encerrado automaticamente.
+## Atualizações
 
-Este repositório não contém os fontes privados do serviço, chaves de publicação ou credenciais. Os componentes de terceiros mantêm suas licenças no pacote distribuído.
+Ao abrir o HuuDx, o programa verifica se existe uma nova versão e oferece a atualização. Para instalar, mantenha os perfis fechados e aceite a atualização na próxima abertura do HuuDx.
+
+Seus perfis e configurações são preservados. Nenhum perfil é encerrado automaticamente pelo atualizador.
+
+Os arquivos técnicos publicados em Releases são utilizados pelo atualizador; novos clientes devem utilizar o pacote completo indicado pela equipe.
